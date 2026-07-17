@@ -1,0 +1,78 @@
+aid: susa-ventures
+name: Susa Ventures
+description: >-
+  Susa Ventures is a San Francisco-based early-stage venture capital firm founded
+  in 2013 by Chad Byers, Leo Polovets, and Seth Berman on the belief that founders
+  are the lifeblood of progress. Susa is a high-conviction, low-volume seed investor
+  that concentrates on data-centric companies with durable competitive moats such as
+  proprietary data, economies of scale, and network effects, and it deliberately caps
+  each partner at a small handful of active companies so it can operate alongside
+  founders in a late-stage, hands-on manner at the earliest stages. The firm invests
+  primarily at pre-seed and seed (occasionally Series A), writing initial checks that
+  typically range from roughly $1M to $5M across artificial intelligence, fintech,
+  healthcare, logistics and supply chain, cybersecurity, developer tools and
+  infrastructure, and consumer. Susa is known for a founder-first posture (it avoids
+  forcing founders out) and for an unusually high seed-stage unicorn hit rate, with
+  notable investments including Robinhood, Flexport, Andela, Newfront, Stord, Human
+  Interest, Mux, Stedi, Viz.ai, and Casetext. The firm closed Fund V at $175M in 2025
+  and also runs the experimental Humba Ventures vehicle for frontier bets. This profile
+  tracks Susa's identity and its portfolio graph across the API Evangelist network.
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+x-type: venture-capital
+x-category: Venture Capital
+created: '2026-07-17'
+modified: '2026-07-17'
+specificationVersion: '0.20'
+tags:
+  - Venture Capital
+  - Pre-Seed
+  - Seed
+  - Series A
+  - Artificial Intelligence
+  - Fintech
+  - Healthcare
+  - Supply Chain
+  - Developer Tools
+  - Infrastructure
+  - San Francisco
+  - North America
+apis: []
+common:
+  - type: Website
+    url: https://susaventures.com/
+  - type: Portfolio
+    url: portfolio/susa-ventures-portfolio.yml
+  - type: Team
+    url: team/susa-ventures-team.yml
+  - type: Blog
+    url: https://susaventures.substack.com/
+  - type: Newsletter
+    url: https://susaventures.substack.com/
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/susa-ventures
+  - type: Twitter
+    url: https://x.com/chadbyers
+  - type: LinkedIn
+    url: https://www.linkedin.com/in/misha-gordonrowe/
+  - type: Features
+    data:
+      - "Stage: Pre-seed, Seed (occasionally Series A)"
+      - "Typical check: ~$1M-$5M initial"
+      - "Sectors: AI, fintech, healthcare, logistics and supply chain, cybersecurity, developer tools and infrastructure, consumer"
+      - "Geography: Primarily United States"
+      - "Fund V: $175M (closed 2025)"
+      - "Founded: 2013"
+      - "HQ: San Francisco, California, USA"
+    sources:
+      - https://susaventures.com/
+      - https://superscout.co/investor/susa-ventures
+      - https://vcbeast.com/vc-firms/susa-ventures/portfolio
+    updated: '2026-07-17'
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
+    url: https://apievangelist.com
+  - FN: APIs.json
+    url: http://apisjson.org
+  - FN: Susa Ventures
+    url: https://susaventures.com/

@@ -1,0 +1,226 @@
+generated: '2026-07-17'
+method: searched
+source: https://susaventures.com/
+summary:
+  portfolio_total: 21
+  in_network: 6
+  api_providers: 3
+  missing: 15
+  stubs_created: 0
+companies:
+- name: Robinhood
+  url: https://robinhood.com
+  description: Commission-free investing and digital brokerage platform.
+  sector: fintech
+  stage: seed
+  status: ipo
+  source: https://vcbeast.com/vc-firms/susa-ventures/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: robinhood
+- name: Flexport
+  url: https://flexport.com
+  description: Technology-driven freight forwarding and supply chain platform.
+  sector: supply-chain
+  stage: seed
+  status: active
+  source: https://vcbeast.com/vc-firms/susa-ventures/portfolio
+  slug: flexport
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Andela
+  url: https://andela.com
+  description: Global marketplace connecting companies with vetted technical talent.
+  sector: hr-tech
+  stage: seed
+  status: active
+  source: https://vcbeast.com/vc-firms/susa-ventures/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: andela
+- name: Newfront
+  url: https://newfront.com
+  description: Modern technology-enabled commercial insurance brokerage.
+  sector: insurtech
+  stage: seed
+  status: active
+  source: https://superscout.co/investor/susa-ventures
+  in_network: false
+  is_api_provider: false
+  suggested_slug: newfront
+- name: Stord
+  url: https://stord.com
+  description: Cloud supply chain and fulfillment platform for brands.
+  sector: supply-chain
+  stage: seed
+  status: active
+  source: https://vcbeast.com/vc-firms/susa-ventures/portfolio
+  slug: stord
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Human Interest
+  url: https://humaninterest.com
+  description: 401(k) retirement plans built for small and medium businesses.
+  sector: fintech
+  stage: seed
+  status: active
+  source: https://superscout.co/investor/susa-ventures
+  in_network: false
+  is_api_provider: false
+  suggested_slug: human-interest
+- name: Mux
+  url: https://mux.com
+  description: Video streaming and analytics infrastructure API for developers.
+  sector: developer-tools
+  stage: seed
+  status: active
+  source: https://vcbeast.com/vc-firms/susa-ventures/portfolio
+  slug: mux
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Stedi
+  url: https://stedi.com
+  description: Programmable healthcare clearinghouse and EDI APIs.
+  sector: developer-tools
+  stage: seed
+  status: active
+  source: https://vcbeast.com/vc-firms/susa-ventures/portfolio
+  slug: stedi
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Viz.ai
+  url: https://viz.ai
+  description: AI-powered care coordination platform for disease detection.
+  sector: healthcare
+  stage: seed
+  status: active
+  source: https://vcbeast.com/vc-firms/susa-ventures/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: vizai
+- name: Medallion
+  url: https://medallion.co
+  description: Automated provider licensing and credentialing for healthcare.
+  sector: healthcare
+  stage: seed
+  status: active
+  source: https://superscout.co/investor/susa-ventures
+  in_network: false
+  is_api_provider: false
+  suggested_slug: medallion
+- name: Nourish
+  url: https://nourish.com
+  description: Telehealth registered-dietitian nutrition care covered by insurance.
+  sector: healthcare
+  stage: seed
+  status: active
+  source: https://superscout.co/investor/susa-ventures
+  in_network: false
+  is_api_provider: false
+  suggested_slug: nourish
+- name: Modern Animal
+  url: https://modernanimal.com
+  description: Membership-based veterinary care clinics and app.
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://superscout.co/investor/susa-ventures
+  in_network: false
+  is_api_provider: false
+  suggested_slug: modern-animal
+- name: Mashgin
+  url: https://mashgin.com
+  description: AI-powered autonomous self-checkout kiosks.
+  sector: retail
+  stage: seed
+  status: active
+  source: https://superscout.co/investor/susa-ventures
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mashgin
+- name: Cluely
+  url: https://cluely.com
+  description: AI assistant for meetings, interviews, and sales calls.
+  sector: ai
+  stage: seed
+  status: active
+  source: https://superscout.co/investor/susa-ventures
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cluely
+- name: Namely
+  url: https://namely.com
+  description: Cloud-based HR, payroll, and benefits platform for mid-market.
+  sector: hr-tech
+  stage: seed
+  status: active
+  source: https://vcbeast.com/vc-firms/susa-ventures/portfolio
+  slug: hr-and-people
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Molekule
+  url: https://molekule.com
+  description: Consumer air purification hardware using photoelectrochemical oxidation.
+  sector: consumer
+  stage: seed
+  status: unknown
+  source: https://superscout.co/investor/susa-ventures
+  in_network: false
+  is_api_provider: false
+  suggested_slug: molekule
+- name: Pex
+  url: https://pex.com
+  description: Digital rights and content identification platform for online media.
+  sector: developer-tools
+  stage: seed
+  status: active
+  source: https://c.parsers.vc/startup/susaventures.com/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: pex
+- name: Casetext
+  url: https://casetext.com
+  description: AI legal research and brief drafting platform.
+  sector: legal-tech
+  stage: seed
+  status: acquired
+  source: https://superscout.co/investor/susa-ventures
+  slug: casetext
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Expanse
+  url: https://expanse.co
+  description: Internet attack-surface management and cybersecurity platform.
+  sector: cybersecurity
+  stage: seed
+  status: acquired
+  source: https://superscout.co/investor/susa-ventures
+  in_network: false
+  is_api_provider: false
+  suggested_slug: expanse
+- name: Scalyr
+  url: https://scalyr.com
+  description: High-speed log management and observability platform.
+  sector: developer-tools
+  stage: seed
+  status: acquired
+  source: https://c.parsers.vc/startup/susaventures.com/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: scalyr
+- name: Periscope Data
+  url: https://periscopedata.com
+  description: SQL-based analytics and business intelligence platform.
+  sector: data-analytics
+  stage: seed
+  status: acquired
+  source: https://c.parsers.vc/startup/susaventures.com/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: periscope-data
