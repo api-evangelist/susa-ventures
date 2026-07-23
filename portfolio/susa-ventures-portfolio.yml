@@ -3,9 +3,9 @@ method: searched
 source: https://susaventures.com/
 summary:
   portfolio_total: 21
-  in_network: 6
-  api_providers: 3
-  missing: 15
+  in_network: 21
+  api_providers: 4
+  missing: 0
   stubs_created: 0
 companies:
 - name: Robinhood
@@ -15,9 +15,10 @@ companies:
   stage: seed
   status: ipo
   source: https://vcbeast.com/vc-firms/susa-ventures/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: robinhood
+  in_network: true
+  is_api_provider: true
+  slug: robinhood
+  matched_by: domain
 - name: Flexport
   url: https://flexport.com
   description: Technology-driven freight forwarding and supply chain platform.
@@ -36,9 +37,10 @@ companies:
   stage: seed
   status: active
   source: https://vcbeast.com/vc-firms/susa-ventures/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: andela
+  slug: andela
+  matched_by: domain
 - name: Newfront
   url: https://newfront.com
   description: Modern technology-enabled commercial insurance brokerage.
@@ -46,9 +48,10 @@ companies:
   stage: seed
   status: active
   source: https://superscout.co/investor/susa-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: newfront
+  slug: newfront
+  matched_by: domain
 - name: Stord
   url: https://stord.com
   description: Cloud supply chain and fulfillment platform for brands.
@@ -67,9 +70,10 @@ companies:
   stage: seed
   status: active
   source: https://superscout.co/investor/susa-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: human-interest
+  slug: human-interest
+  matched_by: domain
 - name: Mux
   url: https://mux.com
   description: Video streaming and analytics infrastructure API for developers.
@@ -99,9 +103,10 @@ companies:
   stage: seed
   status: active
   source: https://vcbeast.com/vc-firms/susa-ventures/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: vizai
+  slug: vizai
+  matched_by: domain
 - name: Medallion
   url: https://medallion.co
   description: Automated provider licensing and credentialing for healthcare.
@@ -109,9 +114,10 @@ companies:
   stage: seed
   status: active
   source: https://superscout.co/investor/susa-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: medallion
+  slug: medallion
+  matched_by: domain
 - name: Nourish
   url: https://nourish.com
   description: Telehealth registered-dietitian nutrition care covered by insurance.
@@ -119,9 +125,10 @@ companies:
   stage: seed
   status: active
   source: https://superscout.co/investor/susa-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: nourish
+  slug: nourish
+  matched_by: domain
 - name: Modern Animal
   url: https://modernanimal.com
   description: Membership-based veterinary care clinics and app.
@@ -129,9 +136,10 @@ companies:
   stage: seed
   status: active
   source: https://superscout.co/investor/susa-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: modern-animal
+  slug: modern-animal
+  matched_by: domain
 - name: Mashgin
   url: https://mashgin.com
   description: AI-powered autonomous self-checkout kiosks.
@@ -139,9 +147,10 @@ companies:
   stage: seed
   status: active
   source: https://superscout.co/investor/susa-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mashgin
+  slug: mashgin
+  matched_by: domain
 - name: Cluely
   url: https://cluely.com
   description: AI assistant for meetings, interviews, and sales calls.
@@ -149,9 +158,10 @@ companies:
   stage: seed
   status: active
   source: https://superscout.co/investor/susa-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cluely
+  slug: cluely
+  matched_by: domain
 - name: Namely
   url: https://namely.com
   description: Cloud-based HR, payroll, and benefits platform for mid-market.
@@ -170,9 +180,10 @@ companies:
   stage: seed
   status: unknown
   source: https://superscout.co/investor/susa-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: molekule
+  slug: molekule
+  matched_by: domain
 - name: Pex
   url: https://pex.com
   description: Digital rights and content identification platform for online media.
@@ -180,9 +191,10 @@ companies:
   stage: seed
   status: active
   source: https://c.parsers.vc/startup/susaventures.com/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: pex
+  slug: pex
+  matched_by: domain
 - name: Casetext
   url: https://casetext.com
   description: AI legal research and brief drafting platform.
@@ -201,9 +213,10 @@ companies:
   stage: seed
   status: acquired
   source: https://superscout.co/investor/susa-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: expanse
+  slug: expanse
+  matched_by: domain
 - name: Scalyr
   url: https://scalyr.com
   description: High-speed log management and observability platform.
@@ -211,9 +224,10 @@ companies:
   stage: seed
   status: acquired
   source: https://c.parsers.vc/startup/susaventures.com/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: scalyr
+  slug: scalyr
+  matched_by: domain
 - name: Periscope Data
   url: https://periscopedata.com
   description: SQL-based analytics and business intelligence platform.
@@ -221,6 +235,7 @@ companies:
   stage: seed
   status: acquired
   source: https://c.parsers.vc/startup/susaventures.com/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: periscope-data
+  slug: periscope-data
+  matched_by: domain
