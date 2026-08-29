@@ -17,6 +17,17 @@ description: >-
   Interest, Mux, Stedi, Viz.ai, and Casetext. The firm closed Fund V at $175M in 2025
   and also runs the experimental Humba Ventures vehicle for frontier bets. This profile
   tracks Susa's identity and its portfolio graph across the API Evangelist network.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
