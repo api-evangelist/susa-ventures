@@ -43,7 +43,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/susa-ventu
 x-type: venture-capital
 x-category: Venture Capital
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 tags:
   - Venture Capital
@@ -60,6 +60,8 @@ tags:
   - North America
 apis: []
 common:
+  - url: https://susaventures.substack.com/feed
+    type: BlogRSS
   - type: Website
     url: https://susaventures.com/
   - type: Portfolio
