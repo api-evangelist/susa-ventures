@@ -4,7 +4,7 @@ source: https://susaventures.com/
 summary:
   portfolio_total: 21
   in_network: 21
-  api_providers: 4
+  api_providers: 5
   missing: 0
   stubs_created: 0
 companies:
@@ -81,7 +81,7 @@ companies:
   stage: seed
   status: active
   source: https://vcbeast.com/vc-firms/susa-ventures/portfolio
-  slug: mux
+  slug: mux-com
   in_network: true
   is_api_provider: true
   matched_by: domain
@@ -169,9 +169,9 @@ companies:
   stage: seed
   status: active
   source: https://vcbeast.com/vc-firms/susa-ventures/portfolio
-  slug: hr-and-people
+  slug: namely
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: domain
 - name: Molekule
   url: https://molekule.com
